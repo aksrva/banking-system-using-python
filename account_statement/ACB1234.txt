@@ -1,0 +1,2 @@
+16/03/2023 16:16:24,open,deposite,100,0,100
+16/03/2023 16:16:59,self/transfer toACB8938970130,transfer,0,70,30
